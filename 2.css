@@ -1,0 +1,29 @@
+/*@media only screen and (max-width < 1024px){*/
+	
+	body{
+		max-width:1024px;
+	}
+	
+	.main{
+		display:flex;
+		flex-direction:row;
+	}
+	
+	p{
+		width:60%;
+		text-align:center;
+		
+	}
+	
+	.image{
+		width:30%;
+		height:200px;
+	}
+	
+	.text{
+		display:flex;
+		flex-direction:column;
+		font-size:20px;
+	}
+	
+	
